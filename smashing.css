@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding:0;
+}
+
+
+body{
+  #a71e54
+}
+
+header{
+  background-color:
+  #a71e54;
+}
+
+nav{
+  display: inline-block;
+  float: right;
+  margin-top: 1.5em;
+  margin-right: 2em;
+
+}
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+h1{
+  font-family: 'Gotham SSm A', 'Gotham SSm B', sans-serif;
+  padding: 3% 25% 1%;
+}
+
+h3{
+  font-family: 'Gotham SSm A', 'Gotham SSm B', sans-serif;
+  padding: 1% 25% 3%;
+  line-height: 1.5em;
+  letter-spacing: 0.1em;
+  word-spacing: 0.1em;
+}
+
+
+.pink-background{
+  background-color: #EB1767;
+  color: white;
+}
